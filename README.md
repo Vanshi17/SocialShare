@@ -16,7 +16,7 @@ Built with **Kotlin**, powered by **Firebase**, and enhanced with libraries like
 ---
 
 📦 **APK Download**  
-[Download SocialShare APK](https://github.com/Vanshi17/SocialShare/raw/main/Screenshots/SocialShare.apk)
+[Download SocialShare APK](https://github.com/Vanshi17/SocialShare/raw/master/Screenshots/SocialShare.apk)
 
 
 ---
