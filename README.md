@@ -7,7 +7,7 @@ Built with **Kotlin**, powered by **Firebase**, and enhanced with libraries like
 ---
 
 ## 🎥 **App Demo**
-👉 **Experience SocialShare in action:**  
+👉 **Experience SocialShare in action (Click the thumbnail below 👇)**  
 
 <a href="https://youtube.com/shorts/ibQ-xZ2YLx0?feature=share">
   <img src="Screenshots/Starting.jpg" alt="Watch Demo" height="600" width="300"/>
